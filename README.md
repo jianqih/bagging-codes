@@ -1,2 +1,2 @@
 # codes
-this repority is stored some codes in daily work.
+This is the codes about bagging algorithm
